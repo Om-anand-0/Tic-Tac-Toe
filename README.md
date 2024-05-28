@@ -1,4 +1,3 @@
-```markdown
 # Tic-Tac-Toe Game
 
 This is a simple Tic-Tac-Toe game implemented in C++. The game allows a human player to play against a computer.
@@ -19,14 +18,14 @@ To compile and run the program, follow these steps:
 2. Navigate to the directory where the source code file (`tictactoe.cpp`) is located.
 3. Compile the code using a C++ compiler, such as `g++`:
 
-    # sh
+   ```bash
     g++ -o tictactoe tictactoe.cpp
-
+   ```
 4. Run the compiled executable:
 
-    # sh
-    ./tictactoe
-
+   ```bash
+   ./tictactoe 
+   ```
 ## Code Structure
 
 The code consists of the following functions:
@@ -51,6 +50,5 @@ The code consists of the following functions:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
 
 This `README.md` file provides a clear overview of your Tic-Tac-Toe project, instructions on how to compile and run the code, and a brief explanation of the code structure.
